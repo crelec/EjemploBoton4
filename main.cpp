@@ -20,7 +20,7 @@ int main()
             }
         else
             {
-                serial_port.write("   Pulsado\n\r",12);
+                serial_port.write("Pulsado   \n\r",12);
                 mi_led0=1;
             }
     ThisThread::sleep_for(250ms);
