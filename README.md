@@ -37,7 +37,7 @@ Cuando se abre la aplicación se observa es lo siguiente:
 
 ![TeraPanel](https://user-images.githubusercontent.com/59096507/210012229-581efcdc-993d-4546-b84a-3afc3efc7372.png)
 
-Simplemente se busca en el menú desplegable el **COM** asociado a la tarjeta y se presiona "OK". Las demás configuraciones se establecen en el propio terminal.
+Se selecciona la opción **Serial** y luego simplemente se busca en el menú desplegable el **COM** asociado a la tarjeta y se presiona "OK". Las demás configuraciones se establecen en el propio terminal.
 Una de las problemáticas a la hora de usar Tera Term es que no es posibles configurar para enviar texto y solamente está la opción de recibir el caracter asociado
 a la tecla que se presione.
 
