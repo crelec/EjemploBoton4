@@ -10,7 +10,7 @@ PA_2 y PA_3 para la transmisión y recepción de datos.
 
 ## Visualización de datos
 
-Dado que Keil Studio en línea no tiene habilitado la opción de visualizar por terminal, es neceserio utilizar otra aplicación que nos permita poder ver los datos
+Dado que Keil Studio en línea no tiene habilitado la opción de visualizar por terminal, es neceserio utilizar otra aplicación que nos permita visualizar los datos
 seriales. Para ello existen dos alternativas para usar Keil Studio en línea y visualizar datos seriales: Putty y Tera term.
 
 ### Putty 
